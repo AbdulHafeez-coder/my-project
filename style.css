@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: aquamarine;
+  justify-content: center;
+  text-align: center;
+  font-family: sans-serif;
+}
+h1 {
+  color: cadetblue;
+}
+p {
+  color: darkblue;
+}
+input {
+  color: darkorange;
+}
+button {
+  color: forestgreen;
+}
